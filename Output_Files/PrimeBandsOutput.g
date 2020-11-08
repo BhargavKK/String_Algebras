@@ -1,0 +1,1 @@
+p := [ "aB", "bA", "cD", "dC", "caBD", "dbAC" ];

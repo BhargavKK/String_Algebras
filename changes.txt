@@ -1,0 +1,13 @@
+contracting bands/expanding bands
+		rosanna-laking thesis
+
+length = 1 return not a band (length atleast 2)
+cyclic
+checking not mixed or mixed initially itself
+squarable
+converting lps to primitive string - should be squarable
+
+infinity_L -> infinity_La
+
+signature types
+
